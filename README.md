@@ -27,6 +27,11 @@ Aegis uses Raiku's execution guarantees—**Ahead-Of-Time (AOT) slot reservation
 This repository contains all the required deliverables for the submission.
 
 * 📄 **[Concept Document](./aegis.pdf):** A 2-page document detailing the problem, solution, framework architecture, and use cases.
+
+* 🎥 **[Loom Video](videolink.algo):** A loom video explaining the architecture and demoing the use-cases.
+
+* 📺 **[Demo Use Cases](https://v0-aegis-prototype-design.vercel.app/):** Web page for visualizing the advantages using *Aegis* will have in agentic execution.
+
 * 🎨 **[Visual Blueprint](./aegis_arch.png):** The architecture and sequence diagrams created in Excalidraw.
 
 ---
