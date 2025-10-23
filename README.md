@@ -1,4 +1,7 @@
 # Project Aegis
+
+![Aegis Logo](./aegis.svg)
+
 ### A Framework for Deterministic AI Agents on Solana
 
 This repository contains the concept submission for the **Raiku "What Would You Build" Challenge**.
@@ -8,7 +11,7 @@ This repository contains the concept submission for the **Raiku "What Would You 
 ## 2-Minute Concept Video
 
 
-[![Project Aegis Loom Walkthrough](https://user-images.githubusercontent.com/1021434/236166033-f09c6eb4-34de-4a94-814d-61f4b5a6c86a.png)](https://www.loom.com/YOUR_VIDEO_LINK_HERE)
+[![Project Aegis Loom Walkthrough](./loom.png)](https://www.loom.com/share/afdb9947e8dc4aa48223d9a414aad3c7?sid=78ca4561-7ad9-428b-85f3-788a169cb55b)
 
 *(**Note:** Click the image above to watch the video.)*
 
