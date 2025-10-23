@@ -1,7 +1,5 @@
 # Project Aegis
 
-![Aegis Logo](./aegis.svg)
-
 ### A Framework for Deterministic AI Agents on Solana
 
 This repository contains the concept submission for the **Raiku "What Would You Build" Challenge**.
